@@ -1,4 +1,4 @@
-Question number:21
+
 Smart contract code :
 
 pragma solidity ^0.4.17;
