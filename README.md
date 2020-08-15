@@ -3,7 +3,8 @@ Smart contract code :
 
 pragma solidity ^0.4.17;
 
-contract employee{
+contract employee
+{
    
     string public empname;
     int public year;
